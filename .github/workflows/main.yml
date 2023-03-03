@@ -41,7 +41,7 @@ jobs:
       #     git add .
       #     git commit -m "update"
       #     git push
-      # - name: 执行额外脚本111
+      # - name: 执行额外脚本1112
       #   run: |
       #     sh test.sh
       - name: Deploy
