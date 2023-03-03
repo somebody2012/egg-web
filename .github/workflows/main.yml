@@ -60,5 +60,5 @@ jobs:
       #     command: sh /root/node-test/server.sh
       #     host: ${{ secrets.SERVER_HOST }}
       #     username: root
-      #     port: 22
+      #     port: 221
       #     privateKey: ${{ secrets.SERVER_PRIVATE_KEY}}
